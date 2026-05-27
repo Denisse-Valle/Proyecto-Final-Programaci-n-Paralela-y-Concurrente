@@ -1,0 +1,8 @@
+scheduler,time
+static,1.74811
+dynamic,4,1.08949
+dynamic,8,1.02909
+dynamic,16,1.06858
+guided,4,1.12602
+guided,8,1.12
+guided,16,1.13103
